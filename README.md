@@ -30,16 +30,9 @@ A curated set of repositories showcasing:
 
 ## 🚀 Notable Projects
 
-🔹 *Ottoman History Chatbot* – RAG Q&A system for some Ottoman history sources
+🔹 *Ottoman History Chatbot* – RAG based Q&A system for some Ottoman history sources
 🔹 *Full-Stack MERN Apps* – CRUD app with React frontend and Node backend   
 ---
-
-## 📌 Let’s Work Together
-
-I’m open to:
-- **Software Engineering Internships**
-- **AI / Machine Learning Internships**
-- Collaborative open-source work
 
 📬 Reach out on LinkedIn or explore my code — I’d love to connect!
 
