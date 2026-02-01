@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Fadil Imran
 
 **Computer Engineering Undergraduate @ American University of Sharjah (AUS)**
+
 -🔗 Email: fadilimranpasha@gmail.com
 -🔗 LinkedIn: https://www.linkedin.com/in/fadil-imran-734640305/  
 -🔗 GitHub: https://github.com/FadilImran
