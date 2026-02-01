@@ -30,7 +30,9 @@ A curated set of repositories showcasing:
 
 ## 🚀 Notable Projects
 
-🔹 *Ottoman History Chatbot* – Custom retrieval pipeline with embeddings + vector store built to answer questions on Ottoman history based on authoritative sources  
+🔹 *Ottoman History Chatbot* – Custom retrieval pipeline with embeddings + vector store 
+                                built to answer questions on Ottoman history based 
+                                on authoritative sources  
 🔹 *Full-Stack MERN Apps* – CRUD app with React frontend and Node backend   
 ---
 
